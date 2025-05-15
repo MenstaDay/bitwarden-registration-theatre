@@ -60,3 +60,18 @@ This repository is public domain. Steal the story, fix the UX. Just don’t buil
 
 *Sincerely,*
 Юленька
+
+
+---
+
+## 🕵️ Post Scriptum
+
+After sending my report, Bitwarden replied and mentioned that they couldn’t reproduce the issue.  
+Fair enough.
+
+However, I wrote to them weeks ago — and it’s possible the issue was silently patched in the meantime.  
+No changelog, no confession. Just mysterious UX justice.
+
+I’m not saying *my Markdown theatre changed anything.*  
+But I’m also not *not* saying that.
+
